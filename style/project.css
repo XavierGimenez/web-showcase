@@ -1,0 +1,28 @@
+body {
+  background-color: whitesmoke;
+}
+.info-me {
+    margin-top: 77px !important;
+}
+
+h1 {
+  font-family: 'Fira Sans', sans-serif;  
+}
+#projects p {
+ font-family: 'Roboto', sans-serif; 
+ font-size: 18px;
+ line-height: 1.5;
+ margin: 35px 0;
+}
+
+.m-project-card {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.m-project-card img {
+  width: 100%;
+  height: auto;
+  margin-top: 20px;
+  border: 1px solid #a0a0a0;
+}
